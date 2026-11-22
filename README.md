@@ -9,4 +9,4 @@ Number Two: Physical hardware. Chipped PS1, something like an Anbernic, as long 
 How to burn a disc? Download a program, for example ImgBurn for windows. Open it up and put a fresh empty cd-r disc into your disc drive. Select burn image to disc, and point to the .cue file. Burn at the lowest speed possible for better results.
 
 Hope you enjoy, but just be sure to not distribute it or sell it, as that isn't something that I'm sharing this game for. I made this game to be played not sold on a Sunday in a flea market as a legit game. Also, don't claim that you are the creator, as you are not.
-If you want to post a video on social media about it, contact me first. Enjoy :D
+If you want to post a video on social media about it, contact me first. The game itself is half english half polish. Also, it may not have the best graphics, but this was the best I could do. This is my first real homebrew project, so don't judge too hard. Made with a bit of help from Grok (AI). Enjoy :D
